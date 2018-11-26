@@ -1,0 +1,18 @@
+M08UF4PR3 Joan Garcia Garcia
+
+1) He creat una carpeta nomenada m08uf4pr3a en el meu directori persona, 
+dintre d'aquesta he creat una altre carpeta anomenada prjava02 i dindre he guardat el arxiu Prjava02 (Versió sense Netbeans).
+
+5) La diferència esta en que en la branca00 aparaixen 2 commits, en canvi en la branca master nomes apareix 1 commit.
+
+6) No, la linia no es veu, perque l'hem afegit a la branca00 per tant desde la branca master no apareix aquest canvi.
+
+7) Si, un cop estan en la branca00 podem veure el canvi de la línia afegida.
+
+10) El que ha passat es que ara el fitxer Prjava02.java ara conté les linies de codi que haviem afegit en la branca00, 
+ja que hem fet un merge de la branca00 en la master.
+
+12) Perque per veure els canvis hem de fer un push de la branca00 amb git push origin branca00.
+
+14) Ara a GitHub apareixen tant la branca00 com la branca01 i també la branca per default o "master".
+
